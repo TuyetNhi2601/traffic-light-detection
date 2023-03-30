@@ -38,6 +38,6 @@ Kết quả:
 ![image](https://user-images.githubusercontent.com/122681319/228903935-faa1512a-4a84-4eb8-a877-274dc73d8d2c.png)
 
 ## Đánh giá mô hình
-|![image](https://user-images.githubusercontent.com/122681319/228904244-b7495808-fe71-43d4-a779-abb470464b0b.png)|![image](https://user-images.githubusercontent.com/122681319/228904277-04f7fd9d-6176-4c86-81ea-132e677c7755.png)|
+![image](https://user-images.githubusercontent.com/122681319/228908221-ab5575b9-bfac-4e1b-b25c-b7ffb7fe51f2.png)
 
 
