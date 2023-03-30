@@ -2,7 +2,7 @@
 ## Tập dữ liệu được sử dụng trong chương trình.
 Mô hình sử dụng đầu vào là những hình ảnh về đèn giao thông gồm các hình ảnh được chú thích thủ công và bán tự động hỗn hợp được thu thập từ cả Udacity Simulator và ros bags được cung cấp để đào tạo.
 Bộ dữ liệu bao gồm các hình ảnh đến từ 4 nguồn:
-Bạn có thể tham chiếu đến [dataset][https://drive.google.com/drive/folders/1NXqHTnjVC1tPjAB5DajGc30uWk5VPy7C].
+Bạn có thể tham chiếu đến [dataset](https://drive.google.com/drive/folders/1NXqHTnjVC1tPjAB5DajGc30uWk5VPy7C).
 
 The udacity simulator:
 ![image](https://user-images.githubusercontent.com/122681319/228896815-ad819b84-4fc6-432b-9588-acfd391cfaae.png)
@@ -28,7 +28,7 @@ Tệp loop bag có video về một vòng lặp hoàn chỉnh, được ghi lạ
 |  Sim + Carla + Extra  |  2137   |    1709  |    428     |
 
 ## Quy trình kiểm thử
-Sử dụng mô hình SSD-MobileNet V2 cùng với [TensorFlow Object Detection API][https://github.com/TensorFlow/models/tree/master/research/object_detection].
+Sử dụng mô hình SSD-MobileNet V2 cùng với [TensorFlow Object Detection API](https://github.com/TensorFlow/models/tree/master/research/object_detection).
 ![image](https://user-images.githubusercontent.com/122681319/228903409-b8d0cb20-b22f-4d2a-9b02-aed00ffaf88f.png)
 
 ## Chạy chương trình
