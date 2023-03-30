@@ -9,12 +9,15 @@ Bạn có thể tham chiếu đến [dataset](https://drive.google.com/drive/fol
 ![image](https://user-images.githubusercontent.com/122681319/228896815-ad819b84-4fc6-432b-9588-acfd391cfaae.png)
 
 * Tệp túi đào tạo có video về đèn giao thông do Udacity cung cấp dưới dạng đào tạo:
+
 ![image](https://user-images.githubusercontent.com/122681319/228896837-269334fb-a8c5-4475-9e60-eba80fb86416.png)
 
 * Tệp túi đèn giao thông chỉ có video về đèn giao thông, được ghi lại trên địa điểm thử nghiệm Carla:
+
 ![image](https://user-images.githubusercontent.com/122681319/228896899-2f93829e-8deb-46f2-8e08-121bd0208443.png)
 
 * Tệp loop bag có video về một vòng lặp hoàn chỉnh, được ghi lại trên trang web thử nghiệm Carla:
+
 ![image](https://user-images.githubusercontent.com/122681319/228896978-256bd963-76da-4d7a-b3f3-a77b0b51addd.png)
 
 ### Thống kê dữ liệu đèn giao thông
