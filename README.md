@@ -14,6 +14,7 @@ Tệp túi đèn giao thông chỉ có video về đèn giao thông, được gh
 
 Tệp loop bag có video về một vòng lặp hoàn chỉnh, được ghi lại trên trang web thử nghiệm Carla:
 ![image](https://user-images.githubusercontent.com/122681319/228896978-256bd963-76da-4d7a-b3f3-a77b0b51addd.png)
+
 ### Thống kê dữ liệu đèn giao thông
 
 |       Dataset         | Samples | Training | Evaluation |
@@ -24,14 +25,18 @@ Tệp loop bag có video về một vòng lặp hoàn chỉnh, được ghi lạ
 |  Carla Extra          |  304    |    N/A   |    N/A     |
 |  Sim + Carla          |  1833   |    1374  |    459     |
 |  Sim + Carla + Extra  |  2137   |    1709  |    428     |
+
 ## Quy trình kiểm thử
 Sử dụng mô hình SSD-MobileNet V2 cùng với TensorFlow Object Detection API.
 ![image](https://user-images.githubusercontent.com/122681319/228903409-b8d0cb20-b22f-4d2a-9b02-aed00ffaf88f.png)
+
 ## Chạy chương trình
 Kết quả:
+
 ![image](https://user-images.githubusercontent.com/122681319/228903884-0b39b0ab-1717-41e2-b0ec-942b79541e0c.png)
 ![image](https://user-images.githubusercontent.com/122681319/228903935-faa1512a-4a84-4eb8-a877-274dc73d8d2c.png)
+
 ## Đánh giá mô hình
-![image](https://user-images.githubusercontent.com/122681319/228904244-b7495808-fe71-43d4-a779-abb470464b0b.png)
-![image](https://user-images.githubusercontent.com/122681319/228904277-04f7fd9d-6176-4c86-81ea-132e677c7755.png)
+![image](https://user-images.githubusercontent.com/122681319/228904244-b7495808-fe71-43d4-a779-abb470464b0b.png)|![image](https://user-images.githubusercontent.com/122681319/228904277-04f7fd9d-6176-4c86-81ea-132e677c7755.png)
+
 
